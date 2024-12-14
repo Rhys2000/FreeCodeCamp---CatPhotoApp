@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		90F649942D0CAC7A00531E56 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		90F649AA2D0D7DBA00531E56 /* CatPhotoApp.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CatPhotoApp.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		90F6498C2D0CAC3700531E56 = {
 			isa = PBXGroup;
 			children = (
+				90F649AA2D0D7DBA00531E56 /* CatPhotoApp.txt */,
 				90F649942D0CAC7A00531E56 /* index.html */,
 			);
 			sourceTree = "<group>";
